@@ -1,0 +1,7 @@
+AuthName "necro.sofgem.cl statistics"
+AuthType Basic
+AuthUserFile /home/sofgem/domains/necro.sofgem.cl/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

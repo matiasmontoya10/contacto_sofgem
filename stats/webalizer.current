@@ -1,0 +1,418 @@
+# Webalizer V2.23-08 Incremental Data - 09/24/2020 19:01:54
+2020 9 24 19 1 54
+1227 1227 49 33 5 21 43482978 85 52 0
+13 1 190 2 24
+0 0 0 0 0 0
+57 57 1910146 1 2 2
+32 32 1121729 1 2 1
+155 155 5596069 4 9 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+342 342 12329635 7 21 9
+63 63 2261942 3 5 4
+2 2 15778 1 1 1
+30 30 1121729 2 2 2
+0 0 0 0 0 0
+162 162 5651019 5 12 7
+65 65 2243530 3 6 3
+31 31 1111400 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+156 156 5596051 6 9 6
+61 61 2222724 11 3 3
+71 71 2301226 13 11 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+63 63 2235833 5
+94 94 3066174 7
+213 213 7818332 12
+123 123 4471596 6
+5 5 39213 3
+0 0 0 0
+67 67 2259273 6
+162 162 5638023 13
+221 221 7884182 17
+126 126 4500442 8
+123 123 4458548 7
+0 0 0 0
+0 0 0 0
+0 0 0 0
+30 30 1111362 1
+0
+0
+0
+1227
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/framework/js/jquery.stellar.min.js
+0 39 0 491283 0 0
+/framework/js/owl.carousel.min.js
+0 39 0 1667874 0 0
+/framework/js/bootstrap-datepicker.min.js
+0 39 0 1332708 0 0
+/framework/css/style.css
+0 39 0 1938417 0 0
+/framework/imagenes/icon_sofgem.png
+1 35 0 94710 0 0
+/framework/fonts/flaticon/font/flaticon.css
+0 39 0 50232 0 0
+/framework/js/typed.js
+0 39 0 456261 0 0
+/framework/js/main.js
+0 39 0 233805 0 0
+/framework/css/aos.css
+0 39 0 1013337 0 0
+/enviar_formulario_cliente
+0 9 0 322 0 1
+/framework/fonts/icomoon/style.css
+0 39 0 3112980 0 0
+/favicon.ico
+0 1 0 0 0 0
+/framework/toast/toastr.min.js
+0 39 0 204789 0 0
+/framework/fonts/icomoon/fonts/icomoon.ttf
+0 38 0 11672384 0 0
+/framework/css/bootstrap.min.css
+0 39 0 7681635 0 0
+/framework/js/popper.min.js
+0 39 0 793104 0 0
+/framework/css/owl.theme.default.min.css
+0 39 0 37635 0 0
+/framework/css/owl.carousel.min.css
+0 39 0 114504 0 0
+/framework/js/jquery-ui.js
+0 39 0 1786161 0 0
+/framework/css/jquery-ui.css
+0 39 0 847782 0 0
+/framework/js/bootstrap.min.js
+0 39 0 1990521 0 0
+/framework/js/jquery.magnific-popup.min.js
+0 39 0 788424 0 0
+/framework/toast/toastr.min.css
+0 39 0 251706 0 0
+/framework/css/magnific-popup.css
+0 39 0 271050 0 0
+/framework/css/resolucion.css
+0 39 0 11817 0 0
+/framework/js/jquery-migrate-3.0.1.min.js
+0 39 0 445419 0 0
+/framework/js/jquery-3.3.1.min.js
+0 39 0 3390114 0 0
+/
+0 76 0 967299 52 15
+/framework/css/bootstrap-datepicker.css
+0 39 0 668616 0 0
+/framework/js/jquery.countdown.min.js
+0 39 0 208221 0 0
+/framework/js/aos.js
+0 39 0 555516 0 0
+/framework/js/custom5.js
+0 39 0 404352 0 0
+/robots.txt
+0 15 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+181.42.21.42
+0 30 30 1111363 1 1600081563
+/
+40.94.227.84
+0 6 6 105283 0 0
+-
+186.11.60.176
+0 2 2 15778 1 1599222484
+/
+186.10.216.108
+0 33 33 1137504 1 1600792384
+/
+40.94.227.4
+0 3 3 68733 0 0
+-
+207.248.223.219
+0 31 31 1124433 2 1600952893
+/
+40.94.227.20
+0 5 5 145658 0 0
+-
+45.4.0.178
+0 31 31 1111390 1 1600804757
+/enviar_formulario_cliente
+54.94.250.204
+0 2 2 15778 1 1599850138
+/
+190.95.20.98
+0 30 30 1111362 1 1600889312
+/
+181.42.40.199
+0 29 29 1108657 1 1599933645
+/
+186.10.235.74
+0 59 59 2220019 2 1600169147
+/
+104.47.70.126
+0 1 1 0 1 1600939751
+/
+40.94.227.62
+0 1 1 5339 0 0
+-
+40.94.226.31
+0 2 2 202304 0 0
+-
+40.94.226.34
+0 5 5 414929 0 0
+-
+40.94.226.29
+0 6 6 181772 1 1600939765
+/
+200.119.231.168
+0 1 1 13071 1 1600941418
+/
+186.67.213.75
+0 62 62 2235836 1 1599672990
+/enviar_formulario_cliente
+181.42.9.214
+0 30 30 1111363 1 1599766700
+/
+40.94.226.61
+0 4 4 132610 0 0
+-
+40.94.226.25
+0 5 5 77868 0 0
+-
+40.94.226.46
+0 8 8 101879 0 0
+-
+200.89.59.157
+0 30 30 1111363 1 1599222400
+/
+190.161.242.54
+0 34 34 1140213 1 1600081083
+/
+181.74.204.47
+0 31 31 1111362 1 1600792389
+/
+186.11.67.254
+0 4 4 26142 1 1600952559
+/
+40.94.227.68
+0 2 2 48017 0 0
+-
+40.94.227.55
+0 4 4 110338 1 1600889322
+/
+191.119.247.202
+0 31 31 1111401 1 1599236246
+/enviar_formulario_cliente
+40.94.227.9
+0 5 5 572854 0 0
+-
+181.42.33.212
+0 2 2 15778 1 1599669780
+/
+186.11.22.9
+0 31 31 1111400 1 1600254534
+/enviar_formulario_cliente
+200.89.56.70
+0 30 30 1121729 1 1599672664
+/
+201.236.136.145
+0 33 33 1137535 2 1599756690
+/
+40.94.227.58
+0 2 2 28192 0 0
+-
+186.10.128.106
+0 4 4 26180 1 1600188085
+/enviar_formulario_cliente
+40.94.227.99
+0 2 2 26948 0 0
+-
+201.219.236.99
+0 2 2 13109 1 1600942230
+/enviar_formulario_cliente
+181.42.20.9
+0 33 33 1150579 1 1599673282
+/
+104.47.55.126
+0 1 1 0 1 1600889312
+/
+186.10.128.234
+0 34 34 1147870 3 1600106579
+/
+181.42.11.197
+0 2 2 26142 2 1600974114
+/
+200.83.161.205
+0 400 400 14237006 11 1600107881
+/
+201.186.148.39
+0 31 31 1111400 1 1600940381
+/enviar_formulario_cliente
+191.125.165.254
+0 30 30 1111362 1 1600794749
+/
+181.42.19.48
+0 1 1 13072 1 1599910179
+/
+201.214.30.65
+0 30 30 1111363 1 1599677267
+/
+200.86.226.37
+0 32 32 1108694 1 1600184087
+/enviar_formulario_cliente
+# End Of Table - sites (monthly)
+# -sites- (daily)
+207.248.223.219
+0 1 1 13071 1 1600952893
+/
+104.47.70.126
+0 1 1 0 1 1600939751
+/
+40.94.226.31
+0 2 2 202304 0 0
+-
+40.94.226.34
+0 5 5 414929 0 0
+-
+40.94.226.29
+0 6 6 181772 1 1600939765
+/
+200.119.231.168
+0 1 1 13071 1 1600941418
+/
+40.94.226.61
+0 4 4 132610 0 0
+-
+40.94.226.25
+0 5 5 77868 0 0
+-
+40.94.226.46
+0 8 8 101879 0 0
+-
+186.11.67.254
+0 4 4 26142 1 1600952559
+/
+201.219.236.99
+0 2 2 13109 1 1600942230
+/enviar_formulario_cliente
+181.42.11.197
+0 1 1 13071 1 1600974114
+/
+201.186.148.39
+0 31 31 1111400 1 1600940381
+/enviar_formulario_cliente
+# End Of Table - sites (daily)
+# -referrers- 
+http://192.168.8.1/
+0 1
+- (Direct Request)
+0 97
+android-app://com.google.android.gm/
+0 1
+http://contacto.sofgem.cl/framework/fonts/icomoon/style.css
+0 35
+http://contacto.sofgem.cl/
+0 1093
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E148 
+0 60
+WhatsApp/2.20.198.15 A
+0 6
+Mozilla/5.0 (Linux; Android 10; STK-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36
+0 33
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/85.0.4183.109 Mobile/15
+0 33
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A705MN) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/79.0.394
+0 32
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 409
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 5
+WhatsApp/2.20.194.16 A
+0 4
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 61
+Mozilla/5.0 (Linux; Android 9; moto e6s) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36
+0 29
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 272
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Mobile/15E14
+0 31
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.56
+0 31
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36 Edg/85.0.5
+0 31
+Mozilla/5.0 (Linux; Android 9; MRD-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 33
+Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.
+0 30
+WhatsApp/2.20.157 A
+0 2
+Mozilla/5.0 (Linux; Android 9; SM-A305G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+0 30
+Asana/1.4.0 WebsiteMetadataRetriever
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
+0 60
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 31
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
